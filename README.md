@@ -1,5 +1,3 @@
 # OversearchQA
 
-The dataset is currently under review and will be released soon.
-
-For more information, please contact: ruoyu.xie@duke.edu
+The dataset is currently available at: https://github.com/apple/ml-over-searching
